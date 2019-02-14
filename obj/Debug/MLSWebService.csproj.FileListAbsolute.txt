@@ -1,0 +1,86 @@
+c:\users\ameba\documents\visual studio 2010\Projects\MLSWebService\MLSWebService\bin\MLSWebService.dll
+c:\users\ameba\documents\visual studio 2010\Projects\MLSWebService\MLSWebService\bin\MLSWebService.pdb
+c:\users\ameba\documents\visual studio 2010\Projects\MLSWebService\MLSWebService\obj\Debug\MLSWebService.dll
+c:\users\ameba\documents\visual studio 2010\Projects\MLSWebService\MLSWebService\obj\Debug\MLSWebService.pdb
+c:\users\ameba\documents\visual studio 2010\Projects\MLSWebService\MLSWebService\bin\MLSWebService.DAL.dll
+c:\users\ameba\documents\visual studio 2010\Projects\MLSWebService\MLSWebService\bin\MLSWebService.Common.dll
+c:\users\ameba\documents\visual studio 2010\Projects\MLSWebService\MLSWebService\bin\MLSWebService.DAL.pdb
+c:\users\ameba\documents\visual studio 2010\Projects\MLSWebService\MLSWebService\bin\MLSWebService.Common.pdb
+c:\users\ameba\documents\visual studio 2010\Projects\MLSWebService\MLSWebService\obj\Debug\MLSWebService.csprojResolveAssemblyReference.cache
+E:\Company Projects\propertymlsWS\MLSWebService\MLSWebService\bin\MLSWebService.dll
+E:\Company Projects\propertymlsWS\MLSWebService\MLSWebService\bin\MLSWebService.pdb
+E:\Company Projects\propertymlsWS\MLSWebService\MLSWebService\bin\MLSWebService.DAL.dll
+E:\Company Projects\propertymlsWS\MLSWebService\MLSWebService\bin\MLSWebService.Common.dll
+E:\Company Projects\propertymlsWS\MLSWebService\MLSWebService\bin\MLSWebService.DAL.pdb
+E:\Company Projects\propertymlsWS\MLSWebService\MLSWebService\bin\MLSWebService.Common.pdb
+E:\Company Projects\propertymlsWS\MLSWebService\MLSWebService\obj\Debug\MLSWebService.csprojResolveAssemblyReference.cache
+E:\Company Projects\propertymlsWS\MLSWebService\MLSWebService\obj\Debug\MLSWebService.dll
+E:\Company Projects\propertymlsWS\MLSWebService\MLSWebService\obj\Debug\MLSWebService.pdb
+F:\Project\MLSDATA\MLSWebService\MLSWebService\bin\MLSWebService.dll
+F:\Project\MLSDATA\MLSWebService\MLSWebService\bin\MLSWebService.pdb
+F:\Project\MLSDATA\MLSWebService\MLSWebService\bin\MLSWebService.DAL.dll
+F:\Project\MLSDATA\MLSWebService\MLSWebService\bin\MLSWebService.Common.dll
+F:\Project\MLSDATA\MLSWebService\MLSWebService\bin\MLSWebService.DAL.pdb
+F:\Project\MLSDATA\MLSWebService\MLSWebService\bin\MLSWebService.Common.pdb
+F:\Project\MLSDATA\MLSWebService\MLSWebService\obj\Debug\MLSWebService.csprojResolveAssemblyReference.cache
+F:\Project\MLSDATA\MLSWebService\MLSWebService\obj\Debug\MLSWebService.dll
+F:\Project\MLSDATA\MLSWebService\MLSWebService\obj\Debug\MLSWebService.pdb
+D:\Projects\MLSWebService\MLSWebService\bin\MLSWebService.dll
+D:\Projects\MLSWebService\MLSWebService\bin\MLSWebService.pdb
+D:\Projects\MLSWebService\MLSWebService\bin\MLSWebService.DAL.dll
+D:\Projects\MLSWebService\MLSWebService\bin\MLSWebService.Common.dll
+D:\Projects\MLSWebService\MLSWebService\bin\MLSWebService.DAL.pdb
+D:\Projects\MLSWebService\MLSWebService\bin\MLSWebService.Common.pdb
+D:\Projects\MLSWebService\MLSWebService\obj\Debug\MLSWebService.csprojResolveAssemblyReference.cache
+D:\Projects\MLSWebService\MLSWebService\obj\Debug\MLSWebService.dll
+D:\Projects\MLSWebService\MLSWebService\obj\Debug\MLSWebService.pdb
+F:\SharedFolder\GaganIIS\MLSDa\MLSData\MLSWebService\MLSWebService\bin\MLSWebService.dll.config
+F:\SharedFolder\GaganIIS\MLSDa\MLSData\MLSWebService\MLSWebService\bin\MLSWebService.dll
+F:\SharedFolder\GaganIIS\MLSDa\MLSData\MLSWebService\MLSWebService\bin\MLSWebService.pdb
+F:\SharedFolder\GaganIIS\MLSDa\MLSData\MLSWebService\MLSWebService\bin\MLSWebService.DAL.dll
+F:\SharedFolder\GaganIIS\MLSDa\MLSData\MLSWebService\MLSWebService\bin\MLSWebService.Common.dll
+F:\SharedFolder\GaganIIS\MLSDa\MLSData\MLSWebService\MLSWebService\bin\MLSWebService.DAL.pdb
+F:\SharedFolder\GaganIIS\MLSDa\MLSData\MLSWebService\MLSWebService\bin\MLSWebService.Common.pdb
+F:\SharedFolder\GaganIIS\MLSDa\MLSData\MLSWebService\MLSWebService\obj\Debug\MLSWebService.csprojResolveAssemblyReference.cache
+F:\SharedFolder\GaganIIS\MLSDa\MLSData\MLSWebService\MLSWebService\obj\Debug\MLSWebService.dll
+F:\SharedFolder\GaganIIS\MLSDa\MLSData\MLSWebService\MLSWebService\obj\Debug\MLSWebService.pdb
+H:\mlsnew\obj\Debug\MLSWebService.csprojResolveAssemblyReference.cache
+H:\mlsnew\obj\Debug\MLSWebService.dll
+H:\mlsnew\bin\MLSWebService.dll.config
+H:\mlsnew\bin\MLSWebService.dll
+H:\mlsnew\bin\MLSWebService.pdb
+H:\mlsnew\bin\MLSWebService.Common.dll
+H:\mlsnew\bin\MLSWebService.DAL.dll
+H:\mlsnew\bin\MLSWebService.DAL.pdb
+H:\mlsnew\bin\MLSWebService.Common.pdb
+H:\mlsnew\obj\Debug\MLSWebService.pdb
+D:\MLSData\obj\Debug\MLSWebService.csprojResolveAssemblyReference.cache
+D:\MLSData\obj\Debug\MLSWebService.dll
+D:\MLSData\obj\Debug\MLSWebService.pdb
+D:\MLSData\bin\MLSWebService.dll.config
+D:\MLSData\bin\MLSWebService.dll
+D:\MLSData\bin\MLSWebService.pdb
+D:\MLSData\bin\MLSWebService.Common.dll
+D:\MLSData\bin\MLSWebService.DAL.dll
+D:\MLSData\bin\MLSWebService.DAL.pdb
+D:\MLSData\bin\MLSWebService.Common.pdb
+C:\MLSData\bin\MLSWebService.dll.config
+C:\MLSData\bin\MLSWebService.dll
+C:\MLSData\bin\MLSWebService.pdb
+C:\MLSData\bin\MLSWebService.Common.dll
+C:\MLSData\bin\MLSWebService.DAL.dll
+C:\MLSData\bin\MLSWebService.DAL.pdb
+C:\MLSData\bin\MLSWebService.Common.pdb
+C:\MLSData\obj\Debug\MLSWebService.csprojResolveAssemblyReference.cache
+C:\MLSData\obj\Debug\MLSWebService.dll
+C:\MLSData\obj\Debug\MLSWebService.pdb
+C:\sites\MLSData\bin\MLSWebService.dll.config
+C:\sites\MLSData\bin\MLSWebService.dll
+C:\sites\MLSData\bin\MLSWebService.pdb
+C:\sites\MLSData\bin\MLSWebService.Common.dll
+C:\sites\MLSData\bin\MLSWebService.DAL.dll
+C:\sites\MLSData\bin\MLSWebService.DAL.pdb
+C:\sites\MLSData\bin\MLSWebService.Common.pdb
+C:\sites\MLSData\obj\Debug\MLSWebService.csprojResolveAssemblyReference.cache
+C:\sites\MLSData\obj\Debug\MLSWebService.dll
+C:\sites\MLSData\obj\Debug\MLSWebService.pdb
